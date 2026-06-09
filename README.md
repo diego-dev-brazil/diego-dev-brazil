@@ -1,4 +1,9 @@
-## Hi there 👋
+<center>
+
+## Oioi, sou o Diego Augusto🍉 ![Porco-Espinho](https://tenor.com/pt-BR/view/hedgehog-cute-dance-party-wiggle-gif-14827685)
+
+</center>
+
 
 <!--
 **diego-dev-brazil/diego-dev-brazil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
