@@ -17,7 +17,7 @@ Olá, sou o Diego Augusto🍉<br><br>Desenvolvedor Back-end | Estudante de Anál
 | 🛠️ Ferramentas | <img src="https://skillicons.dev/icons?i=git,github,apache,vercel" /> |
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=diego-dev-brazil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=diego-dev-brazil&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=diego-dev-brazil&theme=dark&hide_border=true)<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=diego-dev-brazil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
