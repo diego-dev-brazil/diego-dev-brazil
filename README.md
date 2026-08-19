@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# ☁️Sobre mim:
 Olá, sou o Diego Augusto🍉<br><br>Desenvolvedor Back-end | Estudante de Análise e Desenvolvimento de Sistemas<br><br>🧑‍💻Sobre Mim<br><br>Sou Desenvolvedor Back-end e estudante do 
 4° semestre de Análise e Desenvolvimento de Sistemas na Fatec de Mogi das Cruzes. Sou apaixonado por tecnologia desde o ensino médio onde estudei em cursos técnicos pelo Instituto Anna de Moura cursos de lógica de programação, o que me possibilitou ter uma base sólida que uso para desenvolvimento dos meus projetos.<br><br>
 
