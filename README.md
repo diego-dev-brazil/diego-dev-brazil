@@ -3,6 +3,9 @@
 <br><br>Desenvolvedor Back-end | Estudante de Análise e Desenvolvimento de Sistemas<br><br><br><br>Sou Desenvolvedor Back-end e estudante 
 4° semestre de Análise e Desenvolvimento de Sistemas na Fatec de Mogi das Cruzes. Sou apaixonado por tecnologia desde o ensino médio onde estudei em cursos técnicos pelo Instituto Anna de Moura cursos de lógica de programação, o que me possibilitou ter uma base sólida que uso para desenvolvimento dos meus projetos.<br><br></div>
 
+<p align="center">
+  <img src="assets/linux.gif" alt="Linux Tux" width="400">
+</p>
 
 ## 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-augusto-7aa1a2303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br>✉️: diegoaugustooliveira3@gmail.com
