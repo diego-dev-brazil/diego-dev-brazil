@@ -24,4 +24,4 @@ Sou Desenvolvedor Back-end e estudante do 4° semestre de Análise e Desenvolvim
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=diego-dev-brazil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=diego-dev-brazil&theme=dark&hide_border=true)<br>
-![](
+
